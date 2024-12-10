@@ -1,0 +1,54 @@
+Nombre del Perfil: IMPRESORA EPSON
+Tipo de Impresora: FILAMENTO
+Precio filamento PLA: 12
+Precio filamento PETG: 12
+Precio filamento PLA+: 12
+Precio electricidad: 12
+Post-procesamiento: 12
+Porcentaje desperdicio: 20
+Porcentaje ganancia: 90
+------------------------------
+Nombre del Perfil: IMPRESORA EPSON1
+Tipo de Impresora: FILAMENTO
+Precio filamento PLA: 12
+Precio filamento PETG: 12
+Precio filamento PLA+: 12
+Precio electricidad: 12
+Post-procesamiento: 12
+Porcentaje desperdicio: 20
+Porcentaje ganancia: 90
+------------------------------
+Nombre del Perfil: as
+Tipo de Impresora: FILAMENTO
+Precio filamento PLA: 1
+Precio filamento PETG: 2
+Precio filamento PLA+: 3
+Precio electricidad: 4
+Post-procesamiento: 5
+Porcentaje desperdicio: 0
+Porcentaje ganancia: 0
+------------------------------
+Nombre del Perfil: impresora 3
+Tipo de Impresora: RESINA
+Precio resina: 1
+Precio alcohol: 1
+Precio toallas: 1
+Precio guantes: 1
+Precio filtros: 1
+Precio electricidad: 1
+Post-procesamiento: 1
+Porcentaje desperdicio: 11
+Porcentaje ganancia: 51
+------------------------------
+Nombre del Perfil: as1
+Tipo de Impresora: RESINA
+Precio resina: 1
+Precio alcohol: 1
+Precio toallas: 1
+Precio guantes: 1
+Precio filtros: 1
+Precio electricidad: 1
+Post-procesamiento: 1
+Porcentaje desperdicio: 31
+Porcentaje ganancia: 103
+------------------------------

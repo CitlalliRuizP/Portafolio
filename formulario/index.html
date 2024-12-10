@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="contactForm">
+
+        <h2>Contactanos</h2>
+
+        <div class="input-group">
+            <label for="name">Nombre</label>
+            <input type="text" name="name" id="name" placeholder="Nombre"> 
+            <span class="error" id="nameError"></span>
+
+            <label for="lastname">Apellido</label>
+            <input type="text" name="lastname" id="lastname" placeholder="Apellido">
+            <span class="error" id="lastnameError"></span>
+            
+            <label for="email">Correo Electronico</label>
+            <input type="text" name="email" id="email" placeholder="Correo">
+            <span class="error" id="emailError"></span>
+            
+            <label for="query">Tipo de consulta</label>
+            <label><input type="radio" name="query" id="query1" value="1" />Consulta General</label>
+            <label><input type="radio" name="query" id="query2" value="2" />Solicitud de reporte</label>
+            <span class="error" id="queryError"></span>
+
+            <label for="message">Mensaje</label>
+            <textarea name="message" id="message" cols="30" rows="5" placeholder="Mensaje"></textarea>
+            <span class="error" id="messageError"></span>
+
+            <label><input type="checkbox" id="cbox1" value="checkbox" />Acepto terminos y condiciones</label>
+            <span class="error" id="checkboxError"></span>
+
+            <input class="btn" type="submit" value="Enviar">
+        </div>
+
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+Gramos: 95
+Tiempo: 2 horas
+Filamento: PLA
+Gramos: 56
+Tiempo: 30 minutos
+Filamento: PLA
+
+Mililitros: 20
+Tiempo: 5 horas
+
+Gramos: 200
+Tiempo: 6 horas
+Filamento: TPU
+
+Mililitros: 80
+Tiempo: 7 horas 
+
+Gramos: 400
+Tiempo: 5 horas
+Filamento: PLA
+Fecha estimada: 15/08/2024
+
+Mililitros: 60
+Tiempo: Hora y media
+Fecha estimada: 18/08/2024
+
+Gramos: 35
+Tiempo: 6 horas y media
+Filamento: PLA
+Fecha estimada: 19/08/2024
+
+Mililitros: 74
+Tiempo: 4 horas
+Fecha estimada: 23/08/2024
+
+Nombre del proyecto: Ajolopeso
+Gramos: 30
+Tiempo: 2 horas
+Filamento: PLA
+Fecha estimada: 15/08/2024
+
+Nombre del proyecto: Proyecto1
+Mililitros: 26
+Tiempo: 2 horas
+Fecha estimada: 18/08/2024
+
+Nombre del proyecto: Pato
+Gramos: 25
+Tiempo: 1 hora
+Filamento: PLA
+Fecha estimada: 23/08/2024
+
+Nombre del proyecto: x
+Mililitros: 40
+Tiempo: 5 horas
+Fecha estimada: 25/08/2024
+
+Nombre del proyecto: sincopeso
+Perfil asiganado: IMPRESORA EPSON1
+Gramos: 85
+Tiempo: 2 horas
+Filamento: PLA
+Fecha estimada: 21/08/2024
+
+Nombre del proyecto: gaydar
+Perfil asiganado: as1
+Mililitros: 41
+Tiempo: 5 horas
+Fecha estimada: 21/08/2024
+
+Nombre del proyecto: Ya Sofia, ya vamonos
+Perfil asignado: as
+Gramos: 42
+Tiempo: 6 horas
+Filamento: PLA
+Fecha estimada: 23/08/2024
+
+Nombre del proyecto: tiste
+Perfil asignado: impresora 3
+Mililitros: 13
+Tiempo: 30 minutos
+Fecha estimada: 28/08/2024
+
+Nombre del proyecto: 
+Perfil asignado: Seleccione un perfil
+Mililitros: 
+Tiempo: 
+Fecha estimada: 
+
+Nombre del proyecto: 1
+Perfil asignado: IMPRESORA EPSON1
+Gramos: 34
+Tiempo: 34 minutos
+Filamento: PLA
+Fecha estimada: 12/08/2641
+
+Nombre del proyecto: Hola
+Perfil asignado: IMPRESORA EPSON1
+Gramos: 88
+Tiempo: 2 horas
+Filamento: PLA
+Fecha estimada: 30/08/2024
+
+Nombre del proyecto: 1
+Perfil asignado: IMPRESORA EPSON1
+Gramos: 3
+Tiempo: 24 minutos
+Filamento: PLA
+Fecha estimada: 30/08/2024
+
+Nombre del proyecto: rheth
+Perfil asignado: Seleccione un perfil
+Mililitros: hrt
+Tiempo: thrre
+Fecha estimada: rthrt
+
+Nombre del proyecto: res
+Perfil asignado: impresora 3
+Mililitros: 23
+Tiempo: 25 minutos
+Fecha estimada: 30/08/2024
